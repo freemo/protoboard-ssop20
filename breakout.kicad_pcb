@@ -245,7 +245,7 @@
   )
 
   (module prototyping:PinHeader_1x10_P2.54mm_Vertical (layer F.Cu) (tedit 5C49834D) (tstamp 5C54F5CE)
-    (at 143.6624 82.042)
+    (at 143.51 82.042)
     (descr "Through hole straight pin header, 1x10, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x10 2.54mm single row")
     (fp_text reference "" (at 0 -2.33) (layer F.SilkS)
